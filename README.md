@@ -23,7 +23,7 @@
 <body>
     <h1>Gradebook</h1>
     <table id="gradebook">
-    <thread>
+    <thead>
         <tr>
             <th>Tanvir Virdi</th>
             <th>Assignment 1</th>
@@ -31,7 +31,7 @@
             <th>Assignment 3</th>
             <!-- Add more assignment -->
         </tr>
-    </thread>
+    </thead>
     <tbody>
         <!-- Rows will be populated dynamically with JavaScript-->
     </tbody>
